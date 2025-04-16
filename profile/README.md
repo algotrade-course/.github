@@ -4,7 +4,7 @@ This GitHub organization hosts educational content of Algorithmic Trading Course
 
 The ALGOTRADE Algorithmic Trading Course is currently offerred by:
 - **A**dvanced **P**rogram in **C**omputer **S**cience (APCS) - University of Science Ho Chi Minh City, Vietnam National University. The course has code name CS408: Computational Finance - Algorithmic Trading.
-- Course program by ALGOTRADE. Information of the program can by found [here](https://www.algotrade.vn/course).
+- ALGOTRADE Algorithmic Training Course, information of the program can by found [here](https://www.algotrade.vn/course).
 <!--
 **Here are some ideas to get you started:**
 
