@@ -6,10 +6,12 @@ The ALGOTRADE Algorithmic Trading Course is currently offerred by:
 - **A**dvanced **P**rogram in **C**omputer **S**cience (APCS) - University of Science Ho Chi Minh City, Vietnam National University (HCMUS, VNU). The course has code name CS408: Computational Finance, Algorithmic Trading.
 - ALGOTRADE Algorithmic Training Course, information of the program can by found [here](https://www.algotrade.vn/course).
 
-These projects follow the PLUTUS standard, compliance score, and badge system, which are:
+These projects follow the PLUTUS standard, compliance score, and badge system. Three badge levels go with the Compliance Score:
 - ![Static Badge](https://img.shields.io/badge/PLUTUS-<score>-%23BA8E23) is for a project's score ranging from 50% to 69%. 
 - ![Static Badge](https://img.shields.io/badge/PLUTUS-<score>-darkgreen) is for a project's score ranging from 70% to 99%.
-- ![Static Badge](https://img.shields.io/badge/PLUTUS-100%25-purple) is reserved for projects with a score of 100%, flagship projects to promote the PLUTUS Guidelines. Furthermore, the
+- ![Static Badge](https://img.shields.io/badge/PLUTUS-100%25-purple) is reserved for projects with a score of 100%, flagship projects to promote the PLUTUS Guidelines.
+
+Furthermore, the
 - ![Static Badge](https://img.shields.io/badge/PLUTUS-Sample-darkblue) is given to projects that are selected to become PLUTUS Sample Project, featured in [PLUTUS Standard Guideline](https://github.com/algotrade-course/plutus-guideline/)
 
 ## CS408 - APCS, HCMUS - 2025 Project
