@@ -1,4 +1,4 @@
-# Welcome to Algotrade Course on GitHub 👋
+# Welcome to ALGOTRADE Course on GitHub 👋
 
 This GitHub organization hosts educational content of Algorithmic Trading Course offerred by ALGOTRADE. It also host projects developed by students.
 
